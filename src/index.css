@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-1 {
+  font-family: 'Poppins', sans-serif;
+}
+
+
+/* COLOR PALLETES - 1*/
+.cp1-bg-1 {
+  background-color: #527853;
+}
+.cp1-bg-2 {
+  background-color: #F9E8D9;
+}
+.cp1-bg-3 {
+  background-color: #F7B787;
+}
+.cp1-bg-4 {
+  background-color: #EE7214;
+}
+.cp1-text-1 {
+  color: #527853;
+}
+.cp1-text-2 {
+  color: #F9E8D9;
+}
+.cp1-text-3 {
+  color: #F7B787;
+}
+.cp1-text-4 {
+  color: #EE7214;
+}
+
